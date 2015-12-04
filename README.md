@@ -1,4 +1,4 @@
-# Trinotate_example
+# Trinotate_example_supplement
 
 Supplementary material for running a Trinotate workflow example with mouse transcriptome data. 
 Included:
